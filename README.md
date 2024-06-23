@@ -4,6 +4,7 @@ topics are as per primary ds or algo used for solving
 #### <b>[array]</b>
 1. [Find Duplicate](https://github.com/Nefftam/dsAlgo/blob/main/src/main/java/code/topic/array/FindDuplicate.java)
 2. [Search in a rotated sorted array](https://github.com/Nefftam/dsAlgo/blob/main/src/main/java/code/topic/array/SearchRotatedSorted.java)
+3. [Length of Longest substring without repeating characters](https://github.com/Nefftam/dsAlgo/blob/main/src/main/java/code/topic/array/LenghtofLongestSubstringWithoutRepeating.java)
 #### <b>[at_this_index]</b>
 1. [Buy And Sell Stock Level I](https://github.com/Nefftam/dsAlgo/blob/main/src/main/java/code/topic/at_this_index/BuyAndSellStock1.java)
 2. [Buy And Sell Stock Level III](https://github.com/Nefftam/dsAlgo/blob/main/src/main/java/code/topic/at_this_index/BuyAndSellStock3.java)
